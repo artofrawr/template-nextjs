@@ -13,13 +13,13 @@ Some of these are opinionated, optional and/or overkill for some projects, but i
 - [x] Absolute Imports
 - [x] VSCode config
 - [x] Bundle Analyzer
-- [] Husky
-- [] Storybook
-- [] Sentry.io
-- [] Google Analytics
-- [] Contentful
-- [] Express Server
-- [] Redux + Redux Saga
+- [ ] Husky
+- [ ] Storybook
+- [ ] Sentry.io
+- [ ] Google Analytics
+- [ ] Contentful
+- [ ] Express Server
+- [ ] Redux + Redux Saga
 
 ## Getting started
 
